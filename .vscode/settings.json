@@ -4,5 +4,10 @@
     "azureFunctions.projectLanguage": "JavaScript",
     "azureFunctions.projectRuntime": "~3",
     "debug.internalConsoleOptions": "neverOpen",
-    "azureFunctions.preDeployTask": "npm prune (functions)"
+    "azureFunctions.preDeployTask": "npm prune (functions)",
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "https://github1s.com/Asit777/Case-Function-App.git"
+    ]
 }
