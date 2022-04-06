@@ -7,7 +7,11 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "durable-functions": "^1.5.4"
+    "body-parser": "^1.20.0",
+    "durable-functions": "^1.5.4",
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0",
+    "xhr2": "^0.2.1"
   },
   "devDependencies": {}
 }

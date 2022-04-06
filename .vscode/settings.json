@@ -9,5 +9,6 @@
         "origin",
         "upstream",
         "https://github1s.com/Asit777/Case-Function-App.git"
-    ]
+    ],
+    "azureFunctions.templateFilter": "All"
 }
